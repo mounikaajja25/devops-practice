@@ -1,0 +1,3 @@
+vm info
+vm size 
+vm insatance
